@@ -2,7 +2,7 @@
 # contactbook/views.py
 
 #This module provides visual elements to manage the contacts table.
-from PyQt5.QtCoreimport import Qt
+from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (
     QAbstractItemView,
     QDialog,
